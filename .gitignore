@@ -1,0 +1,10 @@
+myenv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.h5
+*.hdf5
+.ipynb_checkpoints
